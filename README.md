@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of littlegolden/flarum-lang-simplified-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/littlegolden/flarum-lang-simplified-chinese) or the [upstream repository](https://github.com/Littlegolden/flarum-lang-simplified-chinese).
 
-**0** versions archived · Latest: [`v0.1.70-beta.14.1.2`](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.70-beta.14.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**83** versions archived · Latest: [`v0.1.70-beta.14.1.2`](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.70-beta.14.1.2) (stable: [`v0.1.0`](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.0)) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2020-02-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.0) |
+| `v0.1.1` | 2020-02-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.1) |
+| `v0.1.10` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.10) |
+| `v0.1.11` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.11) |
+| `v0.1.12` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.12) |
+| `v0.1.13` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.13) |
+| `v0.1.14` | 2020-02-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.14) |
+| `v0.1.15` | 2020-02-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.15) |
+| `v0.1.16` | 2020-02-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.16) |
+| `v0.1.17` | 2020-02-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tree/archive/v0.1.17) |
+
+[View all 83 versions](https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese/tags)
 
 Catalog entry: [packages/littlegolden-flarum-lang-simplified-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/littlegolden-flarum-lang-simplified-chinese.json)
 
